@@ -223,7 +223,7 @@ TMDB has intermittently returned connection resets such as `ECONNRESET` in some 
 
 ## AI Usage
 
-AI tools/Codex were used during development for implementation assistance, debugging, code review, and documentation. The developer reviewed and tested the resulting implementation.
+AI like chatgpt and claude were used during development for implementation assistance, debugging, code review, and documentation. The developer reviewed and tested the resulting implementation.
 
 ## Future Improvements
 
